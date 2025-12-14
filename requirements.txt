@@ -1,0 +1,12 @@
+flask
+playwright
+pydantic
+requests
+python-dotenv
+loguru
+
+# 用于图像处理
+pillow
+
+# 用于格式化宽度计算（处理中文等双字节字符）
+wcwidth
